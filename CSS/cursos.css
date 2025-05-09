@@ -103,7 +103,7 @@ main{
     height: 475px;
     position: relative;
 
-    background-image: url("/Cursos/Imagens/fundo.jpg");
+    background-image: url("Imagens/fundo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
